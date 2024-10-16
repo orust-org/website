@@ -1,3 +1,3 @@
 The home of the Orust website
 
-Still to be worked on.
+NB: Still to be worked on.
